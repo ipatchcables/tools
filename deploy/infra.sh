@@ -5,3 +5,5 @@ echo "export PATH=$PATH:/usr/local/go/bin" >> /root/.bashrc
 git clone https://github.com/michenriksen/aquatone.git /root/cs/opt/aqua
 git clone https://github.com/OJ/gobuster.git /root/cs/opt/gobuster
 git clone https://github.com/jaeles-project/gospider /root/cs/opt/gospider
+
+source /root/.bashrc
